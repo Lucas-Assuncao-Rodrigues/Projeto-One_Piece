@@ -29,9 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Conhecendo um pouco sobre os principais personagens de One Piece.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através. [DESSE LINK](https://Lucas-Assuncao-Rodrigues.github.io/Projeto-One_Piece)
+- [Acesse o projeto finalizado, on-line](https://Lucas-Assuncao-Rodrigues.github.io/Projeto-One_Piece)
 
 ## :memo: Licença
 
